@@ -1,17 +1,17 @@
-# Day 01 - Project
+# Day 01 - Band Name Generator
 
-## 📌 Project
+A simple Python program that creates a band name using your city and pet name.
 
-Basic Python project created as part of Day 01 of the 100 Days of Code Bootcamp.
+## Concepts
 
-## 🛠️ Features
+* input()
+* variables
+* string concatenation
 
-* Uses basic Python concepts (variables, input/output)
+## How it works
 
-## 🚀 Status
+Takes city + pet name and combines them into a band name.
 
-Initial version — will be improved as I progress.
+## Status
 
-## 🎯 Note
-
-Currently focusing on consistency and completing projects. Code will be refined later.
+Initial version — will improve later.
